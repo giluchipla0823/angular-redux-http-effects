@@ -7,3 +7,4 @@ https://reqres.in
 - Comunicarse fuera del ecosistema de Angular (Http, sockets o tareas asíncronas)
 
 # Deploy Github pages
+- ng build --prod.
