@@ -12,4 +12,6 @@ https://reqres.in
   + Settings y buscar "Github Pages".
   + Seleccionar branch "master" y directorio "docs".
   + Importante en el index.html del build de producción, se debe reemplazar:
-    <base href="/[REPOSITORY_NAME]/">
+    <base href="/[URL_REPOSITORY_NAME]/">
+  + En el directorio "docs", duplicar archivo "index.html" y renombrar el nuevo archivo con el nombre
+    "404.html"
