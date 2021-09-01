@@ -8,3 +8,6 @@ https://reqres.in
 
 # Deploy Github pages
 - ng build --prod.
+- En el repositorio del proyecto: 
+  + Settings y buscar "Github Pages".
+  + 
