@@ -10,4 +10,6 @@ https://reqres.in
 - ng build --prod.
 - En el repositorio del proyecto: 
   + Settings y buscar "Github Pages".
-  + 
+  + Seleccionar branch "master" y directorio "docs".
+  + Importante en el index.html del build de producción, se debe reemplazar:
+    <base href="/[REPOSITORY_NAME]/">
