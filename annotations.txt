@@ -1,0 +1,9 @@
+# Backend de prueba
+https://reqres.in
+
+# ¿Que son los efectos?
+- Escuchar acciones que son despachadas por el ngrx/store.
+- Simplificar la lógica en los componentes.
+- Comunicarse fuera del ecosistema de Angular (Http, sockets o tareas asíncronas)
+
+# Deploy Github pages

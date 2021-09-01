@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/angularreduxhttpeffects'),
+      dir: require('path').join(__dirname, './coverage/angular-redux-http-effects'),
       subdir: '.',
       reporters: [
         { type: 'html' },
